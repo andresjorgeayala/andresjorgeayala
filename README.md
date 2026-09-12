@@ -1,16 +1,23 @@
-## Hola soy Andres Jorge Huaroto Ayala 👋
+# 👋 Hola, soy Andrés Huaroto Ayala
 
-<!--
-**andresjorgeayala/andresjorgeayala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de **Ingeniería de Sistemas** en la **Universidad Nacional San Luis Gonzaga**.  
+Actualmente curso el **7.º ciclo** y estoy enfocado en el desarrollo de software y nuevas tecnologías.
 
-Here are some ideas to get you started:
+## 💻 Tecnologías
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ☕ Java
+- 🔷 C#
+- 🐘 PHP
+- 🌐 HTML / CSS / JavaScript
+- 🗄️ MySQL
+- 🔧 Git y GitHub
+
+## 🚀 Sobre mí
+
+Me interesa el desarrollo de aplicaciones, la programación orientada a objetos y la creación de soluciones tecnológicas eficientes.
+
+Actualmente sigo aprendiendo y fortaleciendo mis habilidades en desarrollo de software.
+
+## 📫 Contacto
+
+GitHub: [@andresjorgeayala](https://github.com/andresjorgeayala)
